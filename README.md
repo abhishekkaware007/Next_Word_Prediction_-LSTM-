@@ -174,6 +174,6 @@ To train the model from scratch, run the Jupyter notebook `Sentence_complition_p
 
 Feel free to fork the repository and submit pull requests.
 
-## License
+👤 Author
 
-This project is open-source. Please check the license file for details.
+Abhishek Kaware · VIT Pune · 2025
